@@ -38,7 +38,8 @@ The AI bot will respond based on the personality selected in the settings.
 You can switch between different themes to personalize your experience.
 Demo
 
-Here is a screenshot of the app: ![Screenshot 2025-04-02 103454](https://github.com/user-attachments/assets/30760e1e-b4df-4af9-89a9-6d29263627b0)
+Here is a screenshot of the app: 
+![Screenshot 2025-04-02 103454](https://github.com/user-attachments/assets/30760e1e-b4df-4af9-89a9-6d29263627b0)
 
 
 
